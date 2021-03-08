@@ -4,7 +4,7 @@
 
 ## Screen Shots
 
-![Home](shot-after1.png 'Before screenshot')
+![Home](shot-after.png 'Before screenshot')
 
 ## Stories
 
